@@ -1,0 +1,14 @@
+.container{
+text-align: center;
+}
+
+.head img,.bottom img{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+
+}
+.centerPic img{
+    width: 400px;
+    height: 400px;
+}
